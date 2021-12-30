@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/recyclerViewImageView"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        android:gravity="center"></ImageView>
+
+
+</GridLayout>
